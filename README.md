@@ -7,6 +7,8 @@ PyPIN is a very simple Python module which can generate every possible 4-digit o
 Usage
 =
 To "install" the module, simply place PyPIN.py in the same directory as the script using it, or better yet, put it in your PYTHONPATH.
+
+Functions:
 ```
 import PyPIN
 # To output every number between 0 and 9999:
