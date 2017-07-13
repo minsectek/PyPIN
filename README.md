@@ -1,6 +1,7 @@
 PyPIN
 =
 WARNING: This project is a work-in-progress!
+
 PyPIN is a very simple Python module which can generate every possible 4-digit or 8-digit number, among a couple extra features. It got its name from its original use - generating sets of Bluetooth & 802.11 WPS PINs for an upcoming project. However, it can be used in a variety of ways - the sky's the limit!
 
 Usage
